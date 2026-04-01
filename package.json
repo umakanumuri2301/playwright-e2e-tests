@@ -1,0 +1,19 @@
+{
+  "name": "playwright-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests with Ai Capabilities inclu MCP",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "playwright",
+    "playwright-e2e",
+    "tests",
+    "playwright-mcp"
+  ],
+  "author": "Cope Automation",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.0",
+    "@types/node": "^25.5.0"
+  }
+}
